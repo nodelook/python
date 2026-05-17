@@ -1,2 +1,2 @@
 # NodeLook
-NodeLook on Python
+NodeLook in Goland
